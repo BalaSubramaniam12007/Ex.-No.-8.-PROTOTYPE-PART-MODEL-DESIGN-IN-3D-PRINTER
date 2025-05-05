@@ -47,8 +47,8 @@
 
 ## Output:
 
-### NAME : **KABELAN G K**
-### REG NO : **212224110027**
+### NAME : **BALASUBRAMANIAM L**
+### REG NO : **212224240020**
 ## Rendered Output
 ![image](https://github.com/user-attachments/assets/03068af3-4e90-4b00-a17c-c61ac490d877)
 
